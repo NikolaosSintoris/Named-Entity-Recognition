@@ -75,7 +75,7 @@ Instructions to create an environment:
 ```bash
 python -m venv text\_norm\_env
 source envirnmonet\_name/bin/activate
-pip install -r path/to/requirements.txt
+pip install -r requirements.txt
 ```
 
 Instructions to run the code:
